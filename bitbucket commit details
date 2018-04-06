@@ -1,0 +1,9 @@
+bitbucket commit :
+
+1) First create an repository in bitbucket.
+2) Clone the repository on local.
+3) add code folder on cloning repository folder
+4) git status
+5) git add .
+6)git commit -m "message"
+7) git push origin master
